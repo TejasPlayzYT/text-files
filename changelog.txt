@@ -1,0 +1,13 @@
+v1.4.0
+What's new?
+
+- Fixed execution errors
+- Stability changes
+
+
+UNC/sUNC:
+99% UNC
+98% sUNC (tests currently down, you can try CET)
+
+Script Support:
+- Almost everything on the market!
