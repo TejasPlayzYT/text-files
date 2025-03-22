@@ -1,13 +1,17 @@
-v1.4.0
+Mono has been Updated to v1.5
+
 What's new?
 
-- Fixed execution errors
-- Stability changes
-
+- Press inject twice for best results
+- Monaco editor saves!
+- Very stable
+- All discovered execution errors 100% solved
+- Stabilized overall
 
 UNC/sUNC:
-99% UNC
+99% UNC (Appears as 95% in some games or when an error occurs)
 98% sUNC (tests currently down, you can try CET)
 
 Script Support:
 - Almost everything on the market!
+- Some games have full detection now, so be aware!
