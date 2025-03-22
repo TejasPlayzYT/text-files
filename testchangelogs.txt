@@ -1,9 +1,10 @@
-vTESTER.1
+vTESTER.2
 What's new?
 
-- Extra stable injection method
+- Press inject twice for best results
 - Monaco editor saves!
-- Stability changes
+- Very stable
+- All discovered execution errors 100% solved
 
 
 UNC/sUNC:
@@ -12,3 +13,4 @@ UNC/sUNC:
 
 Script Support:
 - Almost everything on the market!
+- Some games have full detection now, so be aware!
