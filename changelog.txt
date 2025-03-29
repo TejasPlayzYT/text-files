@@ -2,13 +2,8 @@ Mono has been Updated to v1.5.9
 
 What's new?
 
-- Super stable undetected injection
-- Monaco editor saves!
-- Very stable
-- All discovered execution errors 100% solved
-- Stabilized overall
-- SaveInstance added
-- Autoexecute and better workspace
+- SaveInstance
+- Updated to latest version
 
 UNC/sUNC:
 99% UNC (Appears as 95% in some games or when an error occurs)
@@ -17,3 +12,4 @@ UNC/sUNC:
 Script Support:
 - Almost everything on the market!
 - [this issue was fixed this update]
+- 90% of loadstrings broken 🔥
